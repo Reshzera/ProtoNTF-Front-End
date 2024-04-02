@@ -1,6 +1,6 @@
 # ProtoNFT Dapp
 
-Welcome to the ProtoNFT Dapp repository. This React application, crafted with TypeScript and built with Vite, integrates with the Sepolia Ethereum testnet to offer a decentralized app for minting Pokemon-themed NFTs. Our implementation utilizes state-of-the-art web technologies and Wagmi hooks for seamless Web3 integration, providing an educational platform for learning about blockchain and NFT technology. Check out this project live: [ProtoNFT Dapp](#)
+Welcome to the ProtoNFT Dapp repository. This React application, crafted with TypeScript and built with Vite, integrates with the Sepolia Ethereum testnet to offer a decentralized app for minting Pokemon-themed NFTs. Our implementation utilizes state-of-the-art web technologies and Wagmi hooks for seamless Web3 integration, providing an educational platform for learning about blockchain and NFT technology. Check out this project live: [ProtoNFT Dapp](https://proto-ntf-front-end.vercel.app/)
 
 ## Project Structure
 
